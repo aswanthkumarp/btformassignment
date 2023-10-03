@@ -24,7 +24,7 @@ Welcome to the Simple Frontend Technology Blog project! This blog is your go-to 
 <!-- Demo Section -->
 ## Demo
 
-Explore the live demo: [Frontend Technology Blog](#https://aswanthkumarp.github.io/btformassignment)
+Explore the live demo: [Frontend Technology Blog](https://aswanthkumarp.github.io/btformassignment/)
 
 
 
